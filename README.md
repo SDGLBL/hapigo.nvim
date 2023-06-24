@@ -6,7 +6,7 @@ A neovim plugin to interact with haipigo
 
 Lazy
 
-```json
+```lua
 {
     "SDGLBL/hapigo.nvim",
     cmd = {
